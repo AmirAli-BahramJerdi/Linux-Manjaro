@@ -53,30 +53,30 @@
 ## 📂 ساختار پروژه
 ```bash
 linux-manjaro-course/
-├── README.md               # توضیحات اصلی (سرفصل‌ها + لینک‌ها)
+├── README.md              
 ├── 01_intro/
-│   ├── notes.md             # یادداشت‌های فصل ۱
-│   └── exercises.md         # تمرین‌ها
+│   ├── README.md            
+│   └── exercises.md        
 ├── 02_commands/
-│   ├── notes.md
+│   ├── README.md
 │   └── exercises.md
 ├── 03_users_permissions/
-│   ├── notes.md
+│   ├── README.md
 │   └── exercises.md
 ├── 04_package_management/
-│   ├── notes.md
+│   ├── README.md
 │   └── exercises.md
 ├── 05_process_services/
-│   ├── notes.md
+│   ├── README.md
 │   └── exercises.md
 ├── 06_networking/
-│   ├── notes.md
+│   ├── README.md
 │   └── exercises.md
 ├── 07_tips_tricks/
-│   ├── notes.md
+│   ├── README.md
 │   └── exercises.md
 └── 08_security_tools/
-    ├── notes.md
+    ├── README.md
     └── exercises.md
 ```
 
